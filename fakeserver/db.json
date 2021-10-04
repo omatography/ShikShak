@@ -1,0 +1,13 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "Course Name": "Guitar",
+            "desc":"The guitar is a fretted musical instrument that typically has six strings. It is held flat against the player's body and played bystrumming or plucking the strings with the dominant hand,  while simultaneously pressing selected strings against frets with the fingersof the opposite hand.The main objective of this course is to  create an enhanced appreciation for music through playing the guitar. Students will learn how to read music notation, chord symbols, and tablature.",
+            "Course Duration": "10 months",
+            "Mentor": "Kapil Srivastava",
+            "Experience": "20+ years",
+            "rating": 4.7
+        }
+    ]
+}
