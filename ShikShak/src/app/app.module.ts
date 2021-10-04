@@ -7,6 +7,7 @@ import { NavbarComponent } from './Components/navbar/navbar.component';
 import { CoursesViewComponent } from './Components/courses-view/courses-view.component';
 import { CoursesEditComponent } from './Components/courses-edit/courses-edit.component';
 import { AppRoutingModule } from './Routings/app-routing.module';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,7 @@ import { AppRoutingModule } from './Routings/app-routing.module';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule, HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
