@@ -8,7 +8,7 @@ import { environment } from 'src/environments/environment';
 export class CourseService {
 
 
-  baseURL:string = "http://localhost:3000/courses"
+  baseURL:string = "http://localhost:9004/courses/"
   
   constructor(private http: HttpClient) { }
 
